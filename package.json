@@ -4,7 +4,11 @@
     "express": "^5.2.1"
   },
   "devDependencies": {
+    "@microsoft/eslint-formatter-sarif": "^3.1.0",
     "chai": "^6.2.2",
+    "eslint": "^9.39.5",
+    "eslint-plugin-security": "^4.0.1",
+    "globals": "^17.7.0",
     "mocha": "^11.7.6",
     "selenium-webdriver": "^4.45.0"
   },
